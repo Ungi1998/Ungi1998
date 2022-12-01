@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Isabelle, Tevy but you can call me Tevy.
-- 👀 I’m interested in learning language, Tech, Product and Social Impacts.
-- 🌱 I’m currently learning c language at 42 Paris in peer to peer learning.
+- 👋 Hi, I’m Isabelle, Tevy.
+- 👀 I’m passionat about learning language, Tech, Management and Social Impacts.
+- 🌱 I’m currently learning C language at 42 Paris in peer to peer learning!
 - 📫 You can reach me on Linkedin or Malt to start collaborating on some projects !
